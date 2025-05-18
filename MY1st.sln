@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		IMAGENES_PARA_PROYECTO_MAYO_18\AbuelitaVicky.jpeg = IMAGENES_PARA_PROYECTO_MAYO_18\AbuelitaVicky.jpeg
+		IMAGENES_PARA_PROYECTO_MAYO_18\abuelitoRolando.jpeg = IMAGENES_PARA_PROYECTO_MAYO_18\abuelitoRolando.jpeg
+		IMAGENES_PARA_PROYECTO_MAYO_18\amigosadolecencia.jpeg = IMAGENES_PARA_PROYECTO_MAYO_18\amigosadolecencia.jpeg
+		IMAGENES_PARA_PROYECTO_MAYO_18\familia.jpeg = IMAGENES_PARA_PROYECTO_MAYO_18\familia.jpeg
+		IMAGENES_PARA_PROYECTO_MAYO_18\FullSizeRender.mp4 = IMAGENES_PARA_PROYECTO_MAYO_18\FullSizeRender.mp4
+		IMAGENES_PARA_PROYECTO_MAYO_18\hallnuevo.jpeg = IMAGENES_PARA_PROYECTO_MAYO_18\hallnuevo.jpeg
+		IMAGENES_PARA_PROYECTO_MAYO_18\Inicios.jpeg = IMAGENES_PARA_PROYECTO_MAYO_18\Inicios.jpeg
+		IMAGENES_PARA_PROYECTO_MAYO_18\madrecita.jpeg = IMAGENES_PARA_PROYECTO_MAYO_18\madrecita.jpeg
+		IMAGENES_PARA_PROYECTO_MAYO_18\Mamakristy.jpeg = IMAGENES_PARA_PROYECTO_MAYO_18\Mamakristy.jpeg
+		IMAGENES_PARA_PROYECTO_MAYO_18\mazda.jpeg = IMAGENES_PARA_PROYECTO_MAYO_18\mazda.jpeg
+		IMAGENES_PARA_PROYECTO_MAYO_18\MMA.jpeg = IMAGENES_PARA_PROYECTO_MAYO_18\MMA.jpeg
+		IMAGENES_PARA_PROYECTO_MAYO_18\NC.jpeg = IMAGENES_PARA_PROYECTO_MAYO_18\NC.jpeg
+		IMAGENES_PARA_PROYECTO_MAYO_18\ninies.jpeg = IMAGENES_PARA_PROYECTO_MAYO_18\ninies.jpeg
+		IMAGENES_PARA_PROYECTO_MAYO_18\padreymadre.jpeg = IMAGENES_PARA_PROYECTO_MAYO_18\padreymadre.jpeg
+		IMAGENES_PARA_PROYECTO_MAYO_18\papachepe.jpeg = IMAGENES_PARA_PROYECTO_MAYO_18\papachepe.jpeg
+		IMAGENES_PARA_PROYECTO_MAYO_18\papacocky.jpeg = IMAGENES_PARA_PROYECTO_MAYO_18\papacocky.jpeg
+		IMAGENES_PARA_PROYECTO_MAYO_18\paracaa.jpeg = IMAGENES_PARA_PROYECTO_MAYO_18\paracaa.jpeg
+		IMAGENES_PARA_PROYECTO_MAYO_18\paracaidista.jpeg = IMAGENES_PARA_PROYECTO_MAYO_18\paracaidista.jpeg
+		IMAGENES_PARA_PROYECTO_MAYO_18\playa.jpeg = IMAGENES_PARA_PROYECTO_MAYO_18\playa.jpeg
+		IMAGENES_PARA_PROYECTO_MAYO_18\r1.jpeg = IMAGENES_PARA_PROYECTO_MAYO_18\r1.jpeg
+		IMAGENES_PARA_PROYECTO_MAYO_18\sincejas.jpeg = IMAGENES_PARA_PROYECTO_MAYO_18\sincejas.jpeg
+		IMAGENES_PARA_PROYECTO_MAYO_18\tucson.jpeg = IMAGENES_PARA_PROYECTO_MAYO_18\tucson.jpeg
+		IMAGENES_PARA_PROYECTO_MAYO_18\yz.jpeg = IMAGENES_PARA_PROYECTO_MAYO_18\yz.jpeg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {022AD4CE-CC3E-4EBE-B834-7D5299266421}
+	EndGlobalSection
+EndGlobal
